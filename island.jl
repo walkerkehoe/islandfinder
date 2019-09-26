@@ -1,5 +1,5 @@
 #Author: Walker Kehoe 
-#Algorithm that finds islands in a matrix
+#moar comments
 
 function islandFinder(matrix, minsize, thresh, row, col, islands, key, island_dict)
     #recursive function
